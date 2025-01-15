@@ -18,6 +18,15 @@ Reduces manual effort in managing student data.
 Ensures data accuracy and minimizes errors in result calculations.
 Provides quick access to academic records for stakeholders.
 Enhances transparency and accessibility for students and parents.
+
 **Login**
 ![Project Screenshot](images/Login_page.png)
+
+**Registration Page**
+![Project Screenshot](images/reg_page.png)
+
+**Dashboard**
+![Project Screenshot](images/dashboard.png)
+
+
 
